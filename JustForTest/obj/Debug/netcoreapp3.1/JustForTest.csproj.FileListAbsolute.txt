@@ -1,0 +1,11 @@
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.exe
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.deps.json
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.runtimeconfig.json
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.runtimeconfig.dev.json
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.dll
+E:\projects\C#_Project\csharp\JustForTest\bin\Debug\netcoreapp3.1\JustForTest.pdb
+E:\projects\C#_Project\csharp\JustForTest\obj\Debug\netcoreapp3.1\JustForTest.csprojAssemblyReference.cache
+E:\projects\C#_Project\csharp\JustForTest\obj\Debug\netcoreapp3.1\JustForTest.AssemblyInfoInputs.cache
+E:\projects\C#_Project\csharp\JustForTest\obj\Debug\netcoreapp3.1\JustForTest.AssemblyInfo.cs
+E:\projects\C#_Project\csharp\JustForTest\obj\Debug\netcoreapp3.1\JustForTest.dll
+E:\projects\C#_Project\csharp\JustForTest\obj\Debug\netcoreapp3.1\JustForTest.pdb
